@@ -1,7 +1,8 @@
 # paper-mixed-methods
 Este repositorio incluye el desarrollo de un paper sobre ciencia abierta, basado en los principales resultados de un proyecto Mini-COES
 
-El artículo completo (en inglés) puede encontrarse [acá](https://gabcortes97.github.io/paper-mixed-methods-english/paper.html)
+El artículo completo (en inglés) puede encontrarse [acá](https://gabcortes97.github.io/paper-mixed-methods-english/paper.html) 
+[Repositorio Artículo en ingles](https://github.com/gabcortes97/paper-mixed-methods-english)
 
 También se encuentra disponible un borrador del artículo en español [acá](https://lisa-coes.github.io/paper-mixed-methods/paper.html).
 
