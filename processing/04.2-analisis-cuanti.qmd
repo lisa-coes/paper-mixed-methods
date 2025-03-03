@@ -32,7 +32,7 @@ library(kableExtra)
 
 ```{r load-dataset, include=FALSE}
 remove(list = ls())
-load("../input/data/cais.RData") #cargar datos local
+load("input/data/cais.RData") #cargar datos local
 ```
 
 ```{r na-count, include=FALSE}
